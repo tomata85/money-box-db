@@ -27,7 +27,7 @@
       "timestamp": 1664021559000
     },
     {
-      "id": 1,
+      "id": 2,
       "safeId": 1,
       "amount": 10,
       "type": 0,
@@ -35,7 +35,7 @@
       "timestamp": 1664277942992
     },
     {
-      "id": 1,
+      "id": 3,
       "safeId": 2,
       "amount": 10,
       "type": 0,
@@ -43,7 +43,7 @@
       "timestamp": 1656331959000
     },
     {
-      "id": 2,
+      "id": 4,
       "safeId": 2,
       "amount": -7,
       "type": 2,
