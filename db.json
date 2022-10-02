@@ -6,7 +6,7 @@
       "goalAmount": 100,
       "goalName": "לגו",
       "photoUrl": "images/dror.jpeg",
-      "bonusCountdownInDays": 17
+      "nextBonusTime": 17
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "goalAmount": 70,
       "goalName": "טרקטור",
       "photoUrl": "images/shachar.jpeg",
-      "bonusCountdownInDays": 23
+      "nextBonusTime": 23
     }
   ],
   "transactions": [
